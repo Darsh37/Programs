@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e63bdf9-63e2-47bd-96bd-773c8df2ff31" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculateSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FIUsinLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FunctionalInterfaceUsingLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LambdaExpressionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyfirstProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OverloadingProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OverrideExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OverrideExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OverridingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StaticCounterExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StaticCounterExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringBuildePrac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringComparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UseOfStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UseOfSuper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/myfirstproject/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/myfirstproject/HelloResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/CalculateSum.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AL4Demfppz6iusqHX6328euNdZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e63bdf9-63e2-47bd-96bd-773c8df2ff31" name="Changes" comment="" />
+      <created>1654775413621</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654775413621</updated>
+      <workItem from="1654775415236" duration="2653000" />
+      <workItem from="1654845678579" duration="3469000" />
+      <workItem from="1655110723952" duration="14073000" />
+      <workItem from="1655190753225" duration="10514000" />
+      <workItem from="1655269865983" duration="9000" />
+      <workItem from="1655270103174" duration="15269000" />
+      <workItem from="1655355974839" duration="12799000" />
+      <workItem from="1655445672095" duration="9575000" />
+      <workItem from="1655613212150" duration="283000" />
+      <workItem from="1655699509946" duration="2231000" />
+      <workItem from="1655875754426" duration="2507000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/CalculateSum.java</url>
+          <line>2</line>
+          <properties class="CalculateSum" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
